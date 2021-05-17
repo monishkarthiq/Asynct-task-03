@@ -1,0 +1,26 @@
+body {
+    background-color: #d9d9d9;
+    
+}
+
+h1{
+    margin-bottom: 250px;
+    display: flex;
+    justify-content: center;
+    color: #284b63;
+}
+.maincontent {
+    
+    display: flex;
+    display: flex;
+    box-sizing: border-box;
+    margin-left: auto;
+    margin-right: auto;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    padding: 100px;
+    border: solid 1px red;
+    height: 400px;
+    width: 600px;
+}
